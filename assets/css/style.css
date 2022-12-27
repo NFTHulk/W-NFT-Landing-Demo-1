@@ -434,7 +434,7 @@ i.bx {
 .preloader::before {
     position: absolute;
     top: 45%;
-    content: url(../images/icons/header1-logo.svg);
+    /*content: url(../images/icons/header1-logo.svg);*/
     width: 100%;
     margin: auto;
     text-align: center;
